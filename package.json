@@ -103,7 +103,7 @@
     "@vitejs/plugin-react": "^4.4.1",
     "codemirror": "^6.0.1",
     "concurrently": "^9.1.2",
-    "electron": "^43.2.0",
+    "electron": "^43.8.1",
     "electron-builder": "^26.15.3",
     "mermaid": "^11.6.0",
     "react": "^18.3.1",
